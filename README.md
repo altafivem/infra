@@ -1,2 +1,2 @@
 # infra
-![Infra drawio](https://github.com/altafivem/infra/assets/83369389/7bc159db-4026-432c-95b6-c813cd7d02f8)
+![Infra](https://github.com/altafivem/infra/assets/83369389/c7d43cb2-dc7b-4df5-affe-772c4102efcb)
